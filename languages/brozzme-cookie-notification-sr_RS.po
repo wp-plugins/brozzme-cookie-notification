@@ -1,0 +1,423 @@
+# Copyright (C) 2015 Brozzme Cookie notification
+# This file is distributed under the same license as the Brozzme Cookie notification package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme Cookie notification 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/brozzme-cookie-notification\n"
+"POT-Creation-Date: 2015-03-22 13:53:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-08 10:27+0100\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: Benoît Faure <dev@brozzme.com>\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: brozzme-cookie-notification.php:51
+msgid ""
+"This website uses cookies to offer you a better browsing experience. Find out more, how we "
+"use these cookies on the private policy link"
+msgstr ""
+"Ovaj web site koristi kolačiće da bi vam ponudio bolje korisničko iskustvo. Saznajte više "
+"o tome kako koristimo kolačiće putem linka o polisi privatnosti."
+
+#: brozzme-cookie-notification.php:52 brozzme-cookie-notification.php:102
+msgid "By using our website, you agree to the use of our cookies."
+msgstr "Ako koristite naš web site, pristajete i da koristite naše kolačiće."
+
+#: brozzme-cookie-notification.php:53
+msgid "We use cookies to give the best possible experience on our website."
+msgstr "Koristimo kolačiće da bismo vam pružili najbolje moguće korisničko iskustvo."
+
+#: brozzme-cookie-notification.php:54
+msgid ""
+"Cookies on this site: Find out more about our cookies. If you continue to browse our site "
+"you are consenting on their use."
+msgstr ""
+"Kolačići na ovom site-u: Saznajte više o kolačićima. Ako nastavite da pretražujete naš "
+"site, pristajete da koristite kolačiće."
+
+#: brozzme-cookie-notification.php:57
+msgid ""
+"To give you the best possible experience this site uses cookie, Continuing to use this "
+"website you agree to use of cookies."
+msgstr ""
+"Da bi vam omogućio najbolje moguće korisničko iskustvo, ovaj site koristi kolačiće. Ako "
+"nastavite da pretražujete naš site, pristajete da koristite kolačiće."
+
+#: brozzme-cookie-notification.php:59 brozzme-cookie-notification.php:149
+msgid "Private policy"
+msgstr "Polisa o privatnosti"
+
+#: brozzme-cookie-notification.php:60
+msgid "Cookie policy"
+msgstr "Polisa o kolačićima"
+
+#: brozzme-cookie-notification.php:61
+msgid "Read more"
+msgstr "Pročitajte više"
+
+#: brozzme-cookie-notification.php:62
+msgid "Term of use"
+msgstr "Uslov upotrebe"
+
+#: brozzme-cookie-notification.php:63
+msgid "Find out more here"
+msgstr "Ovde saznajte nešto više"
+
+#: brozzme-cookie-notification.php:66 brozzme-cookie-notification.php:116
+msgid "Ok"
+msgstr "U redu"
+
+#: brozzme-cookie-notification.php:67
+msgid "Continue"
+msgstr "Nastavi"
+
+#: brozzme-cookie-notification.php:68
+msgid "X"
+msgstr "X"
+
+#: brozzme-cookie-notification.php:70
+msgid "Decline"
+msgstr "Odbaci"
+
+#: brozzme-cookie-notification.php:71 includes/bcn_options_settings.php:384
+#: includes/bcn_options_settings.php:455 includes/bcn_options_settings.php:466
+#: includes/bcn_options_settings.php:532 includes/bcn_options_settings.php:598
+#: includes/bcn_options_settings.php:682 includes/bcn_options_settings.php:726
+#: includes/bcn_options_settings.php:735 includes/bcn_options_settings.php:767
+#: includes/bcn_options_settings.php:776 includes/bcn_options_settings.php:785
+msgid "No"
+msgstr "Ne"
+
+#: brozzme-cookie-notification.php:72
+msgid "I do not want"
+msgstr "Ne želim"
+
+#: brozzme-cookie-notification.php:244
+msgid "Cookie notification"
+msgstr "Obaveštenje o kolačićima"
+
+#: brozzme-cookie-notification.php:272
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: includes/bcn_options_settings.php:32
+msgid "General settings option for Cookie Notification by Brozzme"
+msgstr "Opšta podešavanja za Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:38
+msgid "Enable Cookie Notification"
+msgstr "Aktiviraj obaveštenje o kolačićima"
+
+#: includes/bcn_options_settings.php:45
+msgid "Notification text"
+msgstr "Tekst obaveštenja"
+
+#: includes/bcn_options_settings.php:52
+msgid "Default template"
+msgstr "Podrazumevani šablon"
+
+#: includes/bcn_options_settings.php:59
+msgid "Choose background color"
+msgstr "Odaberite boju pozadine"
+
+#: includes/bcn_options_settings.php:66
+msgid "Text color"
+msgstr "Boja teksta"
+
+#: includes/bcn_options_settings.php:73
+msgid "Text font size"
+msgstr "Veličina fonta teksta"
+
+#: includes/bcn_options_settings.php:80
+msgid "Apply border radius to buttons link"
+msgstr "Primeni ivice na tastere linka"
+
+#: includes/bcn_options_settings.php:87
+msgid "Add close button"
+msgstr "Dodaj taster ‘Zatvori’"
+
+#: includes/bcn_options_settings.php:103 includes/bcn_options_settings.php:189
+#: includes/bcn_options_settings.php:260
+msgid "Settings options for Cookie Notification by Brozzme"
+msgstr "Opcije podešavanja za Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:110
+msgid "Accept button text"
+msgstr "Prihvati tekst tastera"
+
+#: includes/bcn_options_settings.php:117
+msgid "Accept button background color"
+msgstr "Prihvati boju pozadine tastera"
+
+#: includes/bcn_options_settings.php:124
+msgid "Accept button color"
+msgstr "Prihvati boju tastera"
+
+#: includes/bcn_options_settings.php:131
+msgid "Accept button hover background color"
+msgstr "Boja pozadine kad se kursor nađe iznad tastera ‘Prihvati’"
+
+#: includes/bcn_options_settings.php:138
+msgid "Accept button hover color"
+msgstr "Boja tastera kad se kursor nađe iznad tastera ‘Prihvati’"
+
+#: includes/bcn_options_settings.php:145
+msgid "Enable Decline button"
+msgstr "Aktiviraj taster ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:152
+msgid "Decline button text"
+msgstr "Tekst tastera ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:159
+msgid "Decline button background color"
+msgstr "Boja pozadine tastera ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:166
+msgid "Decline text color"
+msgstr "Boja teksta za odbacivanje"
+
+#: includes/bcn_options_settings.php:173
+msgid "Decline button hover background color"
+msgstr "Boja tastera kad se kursor nađe iznad tastera ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:180
+msgid "Decline text hover color"
+msgstr "Boja teksta kad se kursor nađe iznad tastera ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:196
+msgid "Enable policy button"
+msgstr "Aktiviraj taster polise"
+
+#: includes/bcn_options_settings.php:203
+msgid "Text of the policy (read more) button"
+msgstr "Tekst tastera (pročitaj više) polise"
+
+#: includes/bcn_options_settings.php:210
+msgid "Policy button color"
+msgstr "Boja tastera polise"
+
+#: includes/bcn_options_settings.php:217
+msgid "Policy button background color"
+msgstr "Boja pozadine tastera polise"
+
+#: includes/bcn_options_settings.php:224
+msgid "Hover policy button color"
+msgstr "Boja tastera polise kad se kursor nađe iznad"
+
+#: includes/bcn_options_settings.php:231
+msgid "Hover policy button background color"
+msgstr "Boja pozadine tastera polise kad se kursor nađe iznad"
+
+#: includes/bcn_options_settings.php:238
+msgid "Url of the read more link"
+msgstr "Url linka ‘Pročitaj više’"
+
+#: includes/bcn_options_settings.php:245
+msgid "Info about Private policy page"
+msgstr "Podaci o stranici ‘Polisa privatnosti’"
+
+#: includes/bcn_options_settings.php:252
+msgid "Delete private policy page on desactivation"
+msgstr "Obriši stranicu polise o privatnosti nakon deaktivacije"
+
+#: includes/bcn_options_settings.php:267
+msgid "Fixed"
+msgstr "Fiksni"
+
+#: includes/bcn_options_settings.php:274
+msgid "Bottom"
+msgstr "Dno"
+
+#: includes/bcn_options_settings.php:281
+msgid "Effect"
+msgstr "Efekat"
+
+#: includes/bcn_options_settings.php:289
+msgid "Element to append/prepend cookie to"
+msgstr "Element kome treba pripojiti kolačić"
+
+#: includes/bcn_options_settings.php:296
+msgid "Set to true for bar HTML to be placed at base of website"
+msgstr "Podesite na ‘istina’ za HTML traku kako bi bila postavljena na dnu web site-a"
+
+#: includes/bcn_options_settings.php:304
+msgid "Z-index"
+msgstr "Z-index"
+
+#: includes/bcn_options_settings.php:312
+msgid "Cookies settings for Cookie Notification by Brozzme"
+msgstr "Podešavanja kolačića za Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:318
+msgid "Lifetime of the cookie"
+msgstr "Životni vek kolačića"
+
+#: includes/bcn_options_settings.php:325
+msgid "Set to true for cookies to be accepted automatically. Banner still shows"
+msgstr ""
+"Podesite na ‘istina’ da bi kolačići bili automatski prihvaćeni. Banner i dalje prikazuje"
+
+#: includes/bcn_options_settings.php:332
+msgid "Set to true to silently accept cookies when visitor moves to another page"
+msgstr ""
+"Podesite na ‘istina’ da bi kolačići bili  prihvaćeni bez obaveštenja kad posetilac pređe "
+"na drugu stranicu"
+
+#: includes/bcn_options_settings.php:339
+msgid "Force cookieBar to show regardless of user cookie preference"
+msgstr "Neka se traka sa kolačićima prikaže bez obzira na preference kolačića"
+
+#: includes/bcn_options_settings.php:350
+msgid "Help for Cookie Notification by Brozzme"
+msgstr "Pomoć za Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:356
+msgid "Help"
+msgstr "Pomoć"
+
+#: includes/bcn_options_settings.php:383 includes/bcn_options_settings.php:454
+#: includes/bcn_options_settings.php:465 includes/bcn_options_settings.php:531
+#: includes/bcn_options_settings.php:597 includes/bcn_options_settings.php:681
+#: includes/bcn_options_settings.php:715 includes/bcn_options_settings.php:725
+#: includes/bcn_options_settings.php:734 includes/bcn_options_settings.php:766
+#: includes/bcn_options_settings.php:775 includes/bcn_options_settings.php:784
+msgid "Yes"
+msgstr "Da"
+
+#: includes/bcn_options_settings.php:399
+msgid "Select a message"
+msgstr "Odaberi"
+
+#: includes/bcn_options_settings.php:402
+msgid "Customize the message"
+msgstr "Prilagodi poruku"
+
+#: includes/bcn_options_settings.php:413
+msgid "Default"
+msgstr "Podrazumevana"
+
+#: includes/bcn_options_settings.php:414
+msgid "Custom"
+msgstr "Prilagođena"
+
+#: includes/bcn_options_settings.php:482 includes/bcn_options_settings.php:547
+#: includes/bcn_options_settings.php:614
+msgid "Select a button message"
+msgstr "Odaberi poruku tastera"
+
+#: includes/bcn_options_settings.php:485 includes/bcn_options_settings.php:617
+msgid "Customize the button message"
+msgstr "Prilagodi poruku tastera"
+
+#: includes/bcn_options_settings.php:550
+msgid "Customize the decline button message"
+msgstr "Prilagodi poruku tastera ‘Odbaci’"
+
+#: includes/bcn_options_settings.php:662
+msgid "i.e:"
+msgstr "tj."
+
+#: includes/bcn_options_settings.php:670
+msgid "Display"
+msgstr "Prikaži"
+
+#: includes/bcn_options_settings.php:670
+msgid "Modify"
+msgstr "Izmeni"
+
+#: includes/bcn_options_settings.php:671
+msgid ""
+"Put the new page ID for your private policy rules, according to the url of the read more "
+"link."
+msgstr ""
+"Stavite ID nove stranice za vaša pravila polise privatnosti prema url-u linka ‘pročitaj "
+"više’."
+
+#: includes/bcn_options_settings.php:697
+msgid "Slide"
+msgstr "Kliza"
+
+#: includes/bcn_options_settings.php:698
+msgid "Fade"
+msgstr "Bledi"
+
+#: includes/bcn_options_settings.php:699
+msgid "Hide"
+msgstr "Sakrij"
+
+#: includes/bcn_options_settings.php:716
+msgid "No (default)"
+msgstr "Ne (podrazumevani)"
+
+#: includes/bcn_options_settings.php:717
+msgid ""
+"Set to Yes, HTML will be placed at base of website, actual position may change according "
+"to CSS"
+msgstr ""
+"Podesite na ‘Da’, HTML će biti smešten na dno web site-a; stvarni položaj može biti "
+"promenjen u skladu sa CSS-om"
+
+#: includes/bcn_options_settings.php:755
+msgid "Default (1 year)"
+msgstr "Podrazumevano (1 godina)"
+
+#: includes/bcn_options_settings.php:756
+msgid "190 days"
+msgstr "190 dana"
+
+#: includes/bcn_options_settings.php:757
+msgid "90 days"
+msgstr "90 dana"
+
+#: includes/bcn_options_settings.php:758
+msgid "30 days"
+msgstr "30 dana"
+
+#: includes/bcn_options_settings.php:796
+msgid "General settings"
+msgstr "Opšta podešavanja"
+
+#: includes/bcn_options_settings.php:802
+msgid "Manage accept button settings for "
+msgstr "Upravljaj podešavanjima tastera ‘Prihvati’ za"
+
+#: includes/bcn_options_settings.php:807
+msgid "Manage policy settings for "
+msgstr "Upravljaj podešavanjima polise za"
+
+#: includes/bcn_options_settings.php:813
+msgid "Help / FAQ "
+msgstr "Pomoć/Često postavljana pitanja"
+
+#: includes/bcn_options_settings.php:819
+msgid "Manage Cookie Notification options settings "
+msgstr "Upravljaj podešavanjima opcija za Cookie Notification"
+
+#: includes/bcn_options_settings.php:823
+msgid "Manage Cookie Notification cookies settings "
+msgstr "Upravljaj podešavanjima kolačića za Cookie Notification"
+
+#. Plugin Name of the plugin/theme
+msgid "Brozzme Cookie notification"
+msgstr "Brozzme Cookie notification"
+
+#. Plugin URI of the plugin/theme
+msgid "http://brozzme.com/cookie-notifiation"
+msgstr "http://brozzme.com/cookie-notifiation"
+
+#. Description of the plugin/theme
+msgid "Une implémentation simple de la loi sur les cookies pour WordPress."
+msgstr "Jednostavna primena zakona o kolačićima za Wordpress."
+
+#. Author of the plugin/theme
+msgid "Benoît Faure"
+msgstr "Benoît Faure"
+
+#. Author URI of the plugin/theme
+msgid "http://brozzme.com"
+msgstr "http://brozzme.com"
