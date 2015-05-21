@@ -3,8 +3,8 @@ Contributors: Benoti
 Tags: cookie, law, jquery, notification
 Donate link: http://brozzme.com/
 Requires at least: 3.3
-Tested up to: 4.2.2
-Stable tag: 1.1.0
+Tested up to: 4.2
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,13 +25,6 @@ A simple implementation of the Law on Cookies for WordPress
 10. Fixed, bottom, button border-radius
 ETC ....
 
-Translations are supported through PO/MO files located in the plugin folder "languages".
-
-Following translations are already included in the Brozzme Cookie Notification:
-
-* English
-* French
-* Serbian (sr_RS) by Andrijana Nikolic
 
 == Installation ==
 1. Upload \"brozzme-cookie-notification\" folder to the \"/wp-content/plugins/\" directory.
@@ -44,7 +37,5 @@ Following translations are already included in the Brozzme Cookie Notification:
 3. Display on web screenshot-3.png.
 
 == Changelog ==
-= 1.1.0 =
-* Languages add (Serbo-Croatian)
 = 1.0.0 =
 * Initial release.
